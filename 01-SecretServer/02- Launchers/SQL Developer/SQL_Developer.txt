@@ -1,0 +1,10 @@
+Checkpoint Smart Console
+
+ProcessName:		 C:\Launchers\SQLDeveloper.exe
+
+Process Arguments:  	 $Username $Password $IP $Port $ServiceName 
+
+
+PS: The exe file made with the AutoIT application should be in the folder above. Or path should be arranged accordingly. 
+
+Cagdas BARAK - Delinea
